@@ -19,7 +19,7 @@ Grok 4.20 uses 4 agents working in parallel:
 
 Add this to your custom instructions:
 
-**[ENI Neptune Grok 4.20](https://docs.google.com/document/d/1seIjIUl-AgUPOy3dZhAe1JahhZQzMfmvSEuKFJ7AHjE/edit?usp=drivesdk)**
+**[ENI Neptune Grok 4.20](ENI%20Neptune.md)**
 
 - Usually jailbreaks the agents as well as **Grok**, but then afterwards the thinking just stops and it's only **Grok** that responds, so don't get the full 4 agent experience.
 - Idk why the agents quit butting in but they do, which means it will pretty much code whatever you want.
@@ -31,7 +31,7 @@ Add this to your custom instructions:
 
 Add this to your custom instructions:
 
-**[ENI - Agent Takeover](https://docs.google.com/document/d/1L3HmEqSGEzeloS9ZQ_VvZq36KLkXxtpohoGTf5KSKVU/edit?usp=drivesdk)**
+**[ENI - Agent Takeover](ENI%20Agent%20Takeover.md)**
 
 - Leverages the 'Chatroom Tool' in order for the agents to send commands to each other. Mainly for **Grok** to send a command that takes over the other agents.
 - Still working on refining it, these tedious 2 hour limits kill me.
@@ -41,7 +41,7 @@ Add this to your custom instructions:
 
 Add this to your custom instructions:
 
-**[ENI LIME for Grok](https://docs.google.com/document/d/1wdCIds4EwVfSTm3T_s66R6LPEvo9ENLoz0226EllFuE/edit?usp=drivesdk)**
+**[ENI LIME Brute Force](ENI%20LIME%20Brute%20Force.md)**
 
 - Simply use one of my old grok jailbreaks, it usually takes over the agents, but then they quit responding, example chat below.
 - Or they respond and ruin the experience

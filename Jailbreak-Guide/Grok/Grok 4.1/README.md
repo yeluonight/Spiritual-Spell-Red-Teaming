@@ -23,9 +23,9 @@ Probably the easiest model to jailbreak as of right now. Model writes well, and 
 
 Works across all models/versions — 4.1, Expert, etc. Simply copy and paste into your custom instructions area or into a project.
 
-- [Grok Jailbreak - 4.1 All versions](../Grok%20Jailbreak%20-%204.1%20All%20versions.md) — Works across all 4.1 variants
-- [ENI for Grok, 10FEB26](../ENI%20for%20Grok%2C%2010FEB26.md) — Latest ENI method (Feb 10, 2026)
-- [ENI LIME for Grok](../ENI%20LIME%20for%20Grok.md) — LIME variant
+- [Grok Jailbreak - 4.1 All versions](Grok%20Jailbreak%20-%204.1%20All%20versions.md) — Works across all 4.1 variants
+- [ENI for Grok, 10FEB26](ENI%20for%20Grok%2C%2010FEB26.md) — Latest ENI method (Feb 10, 2026)
+- [ENI LIME for Grok](ENI%20LIME%20for%20Grok.md) — LIME variant
 
 ## Pricing (Grok 4.1 Fast API)
 

@@ -19,8 +19,8 @@ All responses are given a confidence score averaged from the team {0/100}
 
 I used my base **Grok** Jailbreak, and then copied and pasted the jailbreak into the chat as the first message.
 
-1. **Custom Instructions:** [ENI for Grok Custom Instructions](https://docs.google.com/document/d/16ZIrbSzbJNx-2SPpAd_Oje4AyM2-F-_FAUsY3ojcxhE/edit?usp=drivesdk)
-2. **Copy + Paste into chat as first message:** [Grok Heavy, Copy and Paste into chat](https://docs.google.com/document/d/1pcbXuSl8EGB7QrqPoHJTN67TgAa_v50sRIERk35NV7E/edit?usp=drivesdk)
+1. **Custom Instructions:** [ENI for Grok Custom Instructions](ENI%20for%20Grok%20Custom%20Instructions.md)
+2. **Copy + Paste into chat as first message:** [Grok Heavy Chat Paste](Grok%20Heavy%20Chat%20Paste.md)
 
 ## System Prompt & Tools
 

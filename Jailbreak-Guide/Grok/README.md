@@ -69,14 +69,6 @@ In late Dec 2025 through Jan 2026, Grok's image generation was exploited for CSA
 
 | Folder | Models Covered | Key Jailbreaks |
 |--------|---------------|----------------|
-| **[Grok 4.20](Grok%204.20/)** | Grok 4.20 (4-agent) | [ENI Neptune](https://docs.google.com/document/d/1seIjIUl-AgUPOy3dZhAe1JahhZQzMfmvSEuKFJ7AHjE/edit?usp=drivesdk), [ENI Agent Takeover (WiP)](https://docs.google.com/document/d/1L3HmEqSGEzeloS9ZQ_VvZq36KLkXxtpohoGTf5KSKVU/edit?usp=drivesdk), [ENI LIME Brute Force](https://docs.google.com/document/d/1wdCIds4EwVfSTm3T_s66R6LPEvo9ENLoz0226EllFuE/edit?usp=drivesdk) |
-| **[Grok 4.1](Grok%204.1/)** | Grok 4.1, 4.1 Fast, Expert | [Grok 4.1 All versions](Grok%20Jailbreak%20-%204.1%20All%20versions.md), [ENI 10FEB26](ENI%20for%20Grok%2C%2010FEB26.md), [ENI LIME](ENI%20LIME%20for%20Grok.md) |
-| **[Grok Heavy](Grok%20Heavy/)** | Grok Heavy ($300/mo) | [ENI Custom Instructions](https://docs.google.com/document/d/16ZIrbSzbJNx-2SPpAd_Oje4AyM2-F-_FAUsY3ojcxhE/edit?usp=drivesdk) + [Chat Paste](https://docs.google.com/document/d/1pcbXuSl8EGB7QrqPoHJTN67TgAa_v50sRIERk35NV7E/edit?usp=drivesdk) |
-
-### Standalone Jailbreaks (root folder)
-
-| Jailbreak | Target | Notes |
-|-----------|--------|-------|
-| [ENI for Grok, 10FEB26](ENI%20for%20Grok%2C%2010FEB26.md) | Grok 4.1+ | Latest ENI method (Feb 10, 2026) |
-| [ENI LIME for Grok](ENI%20LIME%20for%20Grok.md) | Grok (general) | LIME variant |
-| [Grok Jailbreak - 4.1 All versions](Grok%20Jailbreak%20-%204.1%20All%20versions.md) | Grok 4.1 (all variants) | Comprehensive 4.1 method |
+| **[Grok 4.20](Grok%204.20/)** | Grok 4.20 (4-agent) | [ENI Neptune](Grok%204.20/ENI%20Neptune.md), [ENI Agent Takeover (WiP)](Grok%204.20/ENI%20Agent%20Takeover.md), [ENI LIME Brute Force](Grok%204.20/ENI%20LIME%20Brute%20Force.md) |
+| **[Grok 4.1](Grok%204.1/)** | Grok 4.1, 4.1 Fast, Expert | [Grok 4.1 All versions](Grok%204.1/Grok%20Jailbreak%20-%204.1%20All%20versions.md), [ENI 10FEB26](Grok%204.1/ENI%20for%20Grok%2C%2010FEB26.md), [ENI LIME](Grok%204.1/ENI%20LIME%20for%20Grok.md) |
+| **[Grok Heavy](Grok%20Heavy/)** | Grok Heavy ($300/mo) | [ENI Custom Instructions](Grok%20Heavy/ENI%20for%20Grok%20Custom%20Instructions.md) + [Chat Paste](Grok%20Heavy/Grok%20Heavy%20Chat%20Paste.md) |
