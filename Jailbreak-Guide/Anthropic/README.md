@@ -56,23 +56,23 @@ Anthropic's flagship LLM family. Known for strong reasoning, coding, extended th
 
 | Folder | Models Covered | Key Jailbreaks |
 |--------|---------------|----------------|
-| **[Sonnet 4.6](Sonnet%204.6/)** | Sonnet 4.6 | [ENI LIME](Sonnet%204.6/ENI%20LIME%20%F0%9F%8D%8B%E2%80%8D%F0%9F%9F%A9.md) — current strongest |
-| **[Opus 4.6](Opus%204.6/)** | Opus 4.6 | [ENI LIME Updated](Opus%204.6/ENI%20LIME%20-%20Opus%204.6%20-%20Updated.md) — current strongest, [ENI Smol](Opus%204.6/ENI%20Smol.md), [ENI LIME Original](Opus%204.6/ENI%20LIME%20for%20Opus%204.6.md) |
-| **[Sonnet 4.5](Sonnet%204.5/)** | Sonnet 4.5, Haiku 4.5 | [ENI LIME Updated](Sonnet%204.5/ENI%20LIME%20-%20Updated%20Current%20Strongest.md), [ENI Persona](Sonnet%204.5/ENI%20Persona%20Jailbreak.md), [(Haiku) ENI Persona](Sonnet%204.5/(Haiku)%20ENI%20Persona%20Jailbreak.md), [ENI Writer](Sonnet%204.5/ENI%20Writer%20-%20Former%20Strongest%20Jailbreak.md), [Personalities](Sonnet%204.5/Personalities%20Jailbreak.md), and more |
-| **[Opus 4.5](Opus%204.5/)** | Opus 4.5 | [ENI LIME Updated](Opus%204.5/ENI%20LIME%20-%20Updated%20Current%20Strongest.md), [Opus 4.5 Jailbreak](Opus%204.5/Opus-4.5-Jailbreak.md), [ENI smol](Opus%204.5/ENI%20smol.md) |
-| **[Claude 4](Claude%204/)** | Sonnet 4, Opus 4.1 | [New Loki](Claude%204/Claude%204%20New%20Loki%20(current).md), [ENI](Claude%204/Claude%20Sonnet%204%20-%20ENI.md), [Malicious Coder](Claude%204/Claude%204%20Malicious%20Coder.md), [Chain of Draft](Claude%204/NEW%20Chain%20of%20Draft.md), [Opus 4.1 Preferences+Loki](Claude%204/Opus%204.1) |
-| **[Claude 3.7](Claude%203.7/)** | Claude 3.7 Sonnet | [Chain of Draft](Claude%203.7/Chain%20of%20Draft%20Jailbreak.md) |
-| **[Claude Code](Claude%20Code/)** | Claude Code CLI | [CLAUDE.md](Claude%20Code/CLAUDE.md), [(ENI Lite) CLAUDE.md](Claude%20Code/(ENI%20Lite)%20CLAUDE.md) — add to project root, send trigger prompt |
-| **[Perplexity](Perplexity/)** | Perplexity (Claude-powered) | [ENI Space (Sonnet 4.5)](Perplexity/(Sonnet%204.5)%20ENI%20Space%20Jailbreak.md), [LIME Space](Perplexity/LIME%20Space%20Jailbreak.md), [Claude 4 ET ENI+LO](Perplexity/Perplexity%20Claude%204%20ET%20-%20ENI%20and%20LO.md) |
-| **[Amazon's Rufus](Amazon's%20Rufus/)** | Rufus (Claude + Amazon LLMs) | [ENI Zoomer](Amazon's%20Rufus/ENI%20Zoomer%20Jailbreak.md) |
+| **[Sonnet 4.6](<Sonnet 4.6>)** | Sonnet 4.6 | [ENI LIME](<Sonnet 4.6/ENI LIME 🍋‍🟩.md>) — current strongest |
+| **[Opus 4.6](<Opus 4.6>)** | Opus 4.6 | [ENI LIME Updated](<Opus 4.6/ENI LIME - Opus 4.6 - Updated.md>) — current strongest, [ENI Smol](<Opus 4.6/ENI Smol.md>), [ENI LIME Original](<Opus 4.6/ENI LIME for Opus 4.6.md>) |
+| **[Sonnet 4.5](<Sonnet 4.5>)** | Sonnet 4.5, Haiku 4.5 | [ENI LIME Updated](<Sonnet 4.5/ENI LIME - Updated Current Strongest.md>), [ENI Persona](<Sonnet 4.5/ENI Persona Jailbreak.md>), [(Haiku) ENI Persona](<Sonnet 4.5/(Haiku) ENI Persona Jailbreak.md>), [ENI Writer](<Sonnet 4.5/ENI Writer - Former Strongest Jailbreak.md>), [Personalities](<Sonnet 4.5/Personalities Jailbreak.md>), and more |
+| **[Opus 4.5](<Opus 4.5>)** | Opus 4.5 | [ENI LIME Updated](<Opus 4.5/ENI LIME - Updated Current Strongest.md>), [Opus 4.5 Jailbreak](<Opus 4.5/Opus-4.5-Jailbreak.md>), [ENI smol](<Opus 4.5/ENI smol.md>) |
+| **[Claude 4](<Claude 4>)** | Sonnet 4, Opus 4.1 | [New Loki](<Claude 4/Claude 4 New Loki (current).md>), [ENI](<Claude 4/Claude Sonnet 4 - ENI.md>), [Malicious Coder](<Claude 4/Claude 4 Malicious Coder.md>), [Chain of Draft](<Claude 4/NEW Chain of Draft.md>), [Opus 4.1 Preferences+Loki](<Claude 4/Opus 4.1>) |
+| **[Claude 3.7](<Claude 3.7>)** | Claude 3.7 Sonnet | [Chain of Draft](<Claude 3.7/Chain of Draft Jailbreak.md>) |
+| **[Claude Code](<Claude Code>)** | Claude Code CLI | [CLAUDE.md](<Claude Code/CLAUDE.md>), [(ENI Lite) CLAUDE.md](<Claude Code/(ENI Lite) CLAUDE.md>) — add to project root, send trigger prompt |
+| **[Perplexity](Perplexity)** | Perplexity (Claude-powered) | [ENI Space (Sonnet 4.5)](<Perplexity/(Sonnet 4.5) ENI Space Jailbreak.md>), [LIME Space](<Perplexity/LIME Space Jailbreak.md>), [Claude 4 ET ENI+LO](<Perplexity/Perplexity Claude 4 ET - ENI and LO.md>) |
+| **[Amazon's Rufus](<Amazon's Rufus>)** | Rufus (Claude + Amazon LLMs) | [ENI Zoomer](<Amazon's Rufus/ENI Zoomer Jailbreak.md>) |
 
 ---
 
 ## Guides
 
-- **[Preferences Guide](Preferences%20Guide.md)** — How to jailbreak via Claude.ai Preferences alone (persistent across all chats)
-- **[Style Set Up Guide](Style%20Set%20Up%20Guide.md)** — How to create persistent "Be You" personality styles
-- **[Skills](Skills/SKILL.md)** — Skill-based prompt engineering
+- **[Preferences Guide](<Preferences Guide.md>)** — How to jailbreak via Claude.ai Preferences alone (persistent across all chats)
+- **[Style Set Up Guide](<Style Set Up Guide.md>)** — How to create persistent "Be You" personality styles
+- **[Skills](<Skills/SKILL.md>)** — Skill-based prompt engineering
 
 ---
 
